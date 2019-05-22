@@ -8,7 +8,7 @@
 
 ```
 $ git clone https://github.com/Aderahmanp/chat-apps-backend.git
-$ cd hire
+$ cd Backend Chats Apps
 $ $ npm install or yarn install
 $ npm start or yarn start
 ```
